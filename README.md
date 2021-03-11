@@ -1,1 +1,1 @@
-# Machine-Learning-Projects using AWS
+# Machine-Learning-Projects-with-AWS
